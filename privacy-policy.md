@@ -1,5 +1,5 @@
 <div style="text-align:center">
-<b style="font-size:18px">surgeryonline term and condition</b>
+<b style="font-size:18px">surgeryonline terms and condition</b>
             </div>
 <br>
 <div class="list accordion-list">
@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-                        When you purchase something from our store, as part of the buying and selling process, we
+                        When you purchase something from surgery store, as part of the buying and selling process, we
                         collect the personal information you give us such as your name, address and email address.
 <br/>
 <br/>
