@@ -1,5 +1,5 @@
 <div style="text-align:center">
-<b>surgeryonline term and condition<b>
+<b style="font-size:18px">surgeryonline term and condition</b>
             </div>
 <br>
 <div class="list accordion-list">
